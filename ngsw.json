@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678737118316,
+  "timestamp": 1678824096406,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -191,5 +191,5 @@
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ],
-  "navigationRequestStrategy": "freshness"
+  "navigationRequestStrategy": "performance"
 }
