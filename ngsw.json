@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678837093186,
+  "timestamp": 1679269023915,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -66,7 +66,7 @@
         "/9958.e078ba8b1411c7dd.js",
         "/common.ac1da2326bb8be17.js",
         "/index.html",
-        "/main.691900257123ce94.js",
+        "/main.be9f3c1d4445d26f.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.20e9fb5568c66479.js",
         "/polyfills-dom.3a5e3168052f1fc5.js",
@@ -84,6 +84,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/bierglas.png",
         "/assets/icon/favicon.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -153,6 +154,7 @@
     "/9824.c512b904cf4c8833.js": "339627d0376ea54aa5d9119bf248addc0c1d6e30",
     "/9922.e37bd04f0f91b2a4.js": "16dd7feda6ce34dae2f0ee7c4dbaf9e9e3d23834",
     "/9958.e078ba8b1411c7dd.js": "9dac745d4c58f2802d764528b28d32552f942787",
+    "/assets/bierglas.png": "490317956b24ff7f7cd07e80960e47f5597159b5",
     "/assets/icon/favicon.png": "4f0ea2fdd029f5ec8c15b62477682d95dc410af7",
     "/assets/icons/icon-128x128.png": "2f8af7f5a3da42944c9328c1358c4652e296632a",
     "/assets/icons/icon-144x144.png": "7871049fa5b754111a3cd8870d6d8aab7c9a6cbf",
@@ -164,9 +166,9 @@
     "/assets/icons/icon-96x96.png": "38a52d5c0280c521a3c824d3b5e810505b69d15e",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.ac1da2326bb8be17.js": "dd6127020e6e6b6645dca4c4091f98509e5e8bba",
-    "/index.html": "cf9c5251c6a41414dc00a127f0e692161ec2d03e",
-    "/main.691900257123ce94.js": "7290746df693ae057fb4535f8ddfba987e301f9b",
-    "/manifest.webmanifest": "333add1e136dc9f83602e33d29346952f4140551",
+    "/index.html": "60daee6cc17e063e6beb22d787964ef512467529",
+    "/main.be9f3c1d4445d26f.js": "48d44caf2603ae2873cb0833d266ed8e249bdb25",
+    "/manifest.webmanifest": "952e12455e5dbc8e20d2265e4314412b0d4db212",
     "/polyfills-core-js.20e9fb5568c66479.js": "7b2237821e79690f9dd2dac0b8a3b9ec6c229b76",
     "/polyfills-dom.3a5e3168052f1fc5.js": "50f6ff473a0568bffb8a9d412d7efaced2d36137",
     "/polyfills.fc6fad8ce607b49d.js": "29ecdc4392e1398b433f3838f08631c7ce701c6d",
